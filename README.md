@@ -31,7 +31,7 @@ So for the core line of code for sine wave: "let waveValue = sin(yOffset + x*0.0
 
 
 Image on repo:  
-![Sinewave](./SineWave.png)
+![Sinewave](./SineWave.jpg)
 ![GeneralSketch](./sketch.jpg)
 ![waveValue](./waveValue.jpg)
 
